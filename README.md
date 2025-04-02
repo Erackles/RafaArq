@@ -21,3 +21,7 @@ Ejemplo: INCLUDES = -IC:/Users/Rafael/abseil-cpp-master -IC:/Users/Rafael/boost_
 ####El proyecto está diseñado para sistemas basados en Unix (Linux/MacOS) o Windows con un entorno compatible como MinGW o WSL.
 ####Compatibilidad:
 En sistemas Windows, asegúrate de tener un entorno compatible como MinGW o WSL para ejecutar los comandos make y rm.
+
+Makefile es el compilador a modificar para ejecutar el ejercicio.cpp donde esta el cuadro comparativo entre las dos estructuras
+El make2 es el compílador de los dos programas btree_map.hpp y flatmap.hpp para mostrar el comportamiento individual de ambos
+solo se deben modificar las rutas por los makes
